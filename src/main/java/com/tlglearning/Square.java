@@ -26,7 +26,7 @@ public final class Square {
     if (input < 0) {
       throw new IllegalArgumentException();
     }
-    return Math.sqrt(input) % 1 == 0 ? true : false;
+    return Math.sqrt(input) % 1 == (long) 0 ? true : false;
   }
 
 
