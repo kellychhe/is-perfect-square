@@ -10,7 +10,7 @@ public final class Square {
     // NOTE: There is NO need to do anything with this constructor! The method you will implement in
     // this class is static; thus, there is no need to create instances of this class. Making the
     // constructor private prevents this class from being instantiated, and prevents a compiler- 
-    // generated default from being generated (and being documented by Javadoc).
+    // generated default from being generated (and being documented by Javadoc)..
   }
 
   /**
